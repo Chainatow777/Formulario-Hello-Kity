@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 12pt;
+}
+
+.container {
+    max-width: 600px;
+    border-radius: 16px;
+    border: 1px solid #f06292;
+    background-color: #fce4ec;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.container form {
+    padding-bottom: 50px;
+}
+
+.container .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.container img {
+    max-width: 160px;
+    height: auto;
+}
+
+h1 {
+    font-size: 45pt;
+    font-family: 'Cherry Bomb One', cursive;
+    color: #f06292;
+}
+
+.hidden {
+    display: none;
+}
