@@ -5,20 +5,6 @@ function armazenarInformacoes() {
     formulario.dataNascimento = document.getElementById('dataNascimento').value;
     formulario.estadoCivil = document.getElementById('estadoCivil').value;
 
-    if (
-        formulario.nome !== 'isabela' &&
-        formulario.nome !== 'isabela brandão' &&
-        formulario.nome !== 'isabela brandão da silva' &&
-        formulario.dataNascimento !== '31/12/2006'
-    ) {
-        var mensagem =
-            "SAI DAQUI SUA PRAGA, " +
-            formulario.nome +
-            ", VOCÊ NÃO É MINHA NAMORADA!!! :(";
-        alert(mensagem);
-        return;
-    }
-
     exibirCodigoAleatorio();
     exibirProximaEtapa();
 }
