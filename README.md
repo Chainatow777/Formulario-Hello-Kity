@@ -2,6 +2,8 @@
 
 O Formulário - Hello Kity é um projeto que busca criar uma experiência romântica e fofa para os usuários. Ele consiste em um formulário onde os usuários fornecem informações pessoais, como nome, data de nascimento e estado civil. Em seguida, um código aleatório é gerado e exibido na tela, adicionando um toque misterioso ao processo. Os usuários são convidados a confirmar sua disponibilidade para um encontro, e um convite personalizado é exibido. Além disso, o código também apresenta elogios aleatórios em intervalos regulares. Com uma estética encantadora, incluindo imagens da Hello Kity e cores suaves, o projeto proporciona uma experiência interativa e envolvente, transmitindo aos usuários uma sensação de serem amados e especiais.
 
+![ForYouLario -  Image](https://github.com/Chainatow777/Formulario-Hello-Kity/assets/107222555/1569d5c7-0bda-412b-80db-33ad50ff91b2)
+
 ## Funcionalidades
 
 1. O formulário solicita ao usuário as seguintes informações:
